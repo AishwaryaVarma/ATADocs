@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Advanced Threat Analytics architecture | Microsoft Docs
+title: Advanced Threat Analytics architecture | Microsoft Docs|ata_arch
 description: Describes the architecture of Microsoft Advance Threat Analytics (ATA)
 keywords:
 author: mlottner
